@@ -3,7 +3,7 @@ Check Perl 6 Ecosystem modules for working links and valid JSON in META.info fil
 
 # INSTALLATION
 
-You need these modules installed from CPAN:
+You need Perl 5 installed and these modules installed from CPAN:
 
     cpan Mojo::UserAgent JSON::Meth List::UtilsBy
 
